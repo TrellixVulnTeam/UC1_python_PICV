@@ -11,7 +11,7 @@ import sys
 
 def get_sysargv():
 
-  message = 'Ussssage:\nnew-ssh.py --srx - for all srxs\nnew-ssh.py --mx  - for all mxs\nnew-ssh.py --efw - for all efws\nnew-ssh.py --cfw - for all cfws\nnew-ssh.py --lab or with no arg - for all labs\n\n\nThe default user is cne'
+  message = 'Usage:\nnew-ssh.py --srx - for all srxs\nnew-ssh.py --mx  - for all mxs\nnew-ssh.py --efw - for all efws\nnew-ssh.py --cfw - for all cfws\nnew-ssh.py --lab or with no arg - for all labs\n\n\nThe default user is cne'
 
   if len(sys.argv)<2:
     devices = d_list.lab
