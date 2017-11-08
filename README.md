@@ -1,2 +1,8 @@
 # UC1_python
-'Usage:\nnew-ssh.py --srx - for all srxs\nnew-ssh.py --mx  - for all mxs\nnew-ssh.py --efw - for all efws\nnew-ssh.py --cfw - for all cfws\nnew-ssh.py --lab or with no arg - for all labs\n\n\nThe default user is cne'
+Usage of new_ssh.py:
+./new-ssh.py --srx - for all srxs
+./new-ssh.py --mx  - for all mxs
+./new-ssh.py --efw - for all efws
+./new-ssh.py --cfw - for all cfws
+./new-ssh.py --lab or with no arg - for all labs
+The default user is cne'
