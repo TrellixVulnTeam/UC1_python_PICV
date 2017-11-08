@@ -1,0 +1,442 @@
+
+WA1_EFW> show version
+node0:
+--------------------------------------------------------------------------
+Hostname: WA1-EFW-1A
+Model: srx1400
+JUNOS Software Release [12.1X47-D29]
+
+node1:
+--------------------------------------------------------------------------
+Hostname: WA1-EFW-1B
+Model: srx1400
+JUNOS Software Release [12.1X47-D29]
+
+VA2_CFW> show version
+node0:
+--------------------------------------------------------------------------
+Hostname: VA2-CFW-1A
+Model: srx5600
+JUNOS Software Release [12.3X48-D50.6]
+
+node1:
+--------------------------------------------------------------------------
+Hostname: VA2-CFW-1B
+Model: srx5600
+JUNOS Software Release [12.3X48-D50.6]
+
+VA1_CFW> show version
+node0:
+--------------------------------------------------------------------------
+Hostname: VA1-CFW-1A
+Model: srx5600
+JUNOS Software Release [12.3X48-D50.6]
+
+node1:
+--------------------------------------------------------------------------
+Hostname: VA1-CFW-1B
+Model: srx5600
+JUNOS Software Release [12.3X48-D50.6]
+
+NE1_EFW> show version
+node0:
+--------------------------------------------------------------------------
+Hostname: NE1-EFW-1A-R5
+Model: srx1400
+JUNOS Software Release [12.3X48-D50.6]
+
+node1:
+--------------------------------------------------------------------------
+Hostname: NE1-EFW-1B-R6
+Model: srx1400
+JUNOS Software Release [12.3X48-D50.6]
+
+DE1_CFW> show version
+node0:
+--------------------------------------------------------------------------
+Hostname: DE1-CFW-1A-R14
+Model: srx5600
+JUNOS Software Release [12.3X48-D50.6]
+
+node1:
+--------------------------------------------------------------------------
+Hostname: DE1-CFW-1B-R15
+Model: srx5600
+JUNOS Software Release [12.3X48-D50.6]
+
+NE1_CFW> show version
+node0:
+--------------------------------------------------------------------------
+Hostname: NE1-CFW-1A-R5
+Model: srx5600
+JUNOS Software Release [12.3X48-D50.6]
+
+node1:
+--------------------------------------------------------------------------
+Hostname: NE1-CFW-1B-R6
+Model: srx5600
+JUNOS Software Release [12.3X48-D50.6]
+
+GB1_CFW> show version
+node0:
+--------------------------------------------------------------------------
+Hostname: GB1-CFW-1A-R22
+Model: srx5600
+JUNOS Software Release [12.3X48-D50.6]
+
+node1:
+--------------------------------------------------------------------------
+Hostname: GB1-CFW-1B-R23
+Model: srx5600
+JUNOS Software Release [12.3X48-D50.6]
+
+SG1_CFW> show version
+node0:
+--------------------------------------------------------------------------
+Hostname: SG1-CFW-1A-R6
+Model: srx5600
+JUNOS Software Release [12.3X48-D50.6]
+
+node1:
+--------------------------------------------------------------------------
+Hostname: SG1-CFW-1B-R5
+Model: srx5600
+JUNOS Software Release [12.3X48-D50.6]
+
+AU1_EFW> show version
+node0:
+--------------------------------------------------------------------------
+Hostname: AU1-EFW-1A-R5
+Model: srx1400
+JUNOS Software Release [12.3X48-D50.6]
+
+node1:
+--------------------------------------------------------------------------
+Hostname: AU1-EFW-1B-R6
+Model: srx1400
+JUNOS Software Release [12.3X48-D50.6]
+
+GB3_EFW> show version
+node0:
+--------------------------------------------------------------------------
+Hostname: GB3-SRX-EDGE-N0
+Model: srx1400
+JUNOS Software Release [12.1X47-D29]
+
+node1:
+--------------------------------------------------------------------------
+Hostname: GB3-SRX-EDGE-N1
+Model: srx1400
+JUNOS Software Release [12.1X47-D29]
+
+SG1_EFW> show version
+node0:
+--------------------------------------------------------------------------
+Hostname: SG1-EFW-1A-R6
+Model: srx1400
+JUNOS Software Release [12.3X48-D50.6]
+
+node1:
+--------------------------------------------------------------------------
+Hostname: SG1-EFW-1B-R5
+Model: srx1400
+JUNOS Software Release [12.3X48-D50.6]
+
+CA2_CFW> show version
+node0:
+--------------------------------------------------------------------------
+Hostname: CA2-CFW-1A-R5
+Model: srx5600
+JUNOS Software Release [12.3X48-D50.6]
+
+node1:
+--------------------------------------------------------------------------
+Hostname: CA2-CFW-1B-R6
+Model: srx5600
+JUNOS Software Release [12.3X48-D50.6]
+
+UT1_EFW> show version
+node0:
+--------------------------------------------------------------------------
+Hostname: UT1-SRX-EDGE-N0
+Model: srx650
+JUNOS Software Release [12.1X47-D29]
+
+node1:
+--------------------------------------------------------------------------
+Hostname: UT1-SRX-EDGE-N1
+Model: srx650
+JUNOS Software Release [12.1X47-D29]
+
+CA1_CFW> show version
+node0:
+--------------------------------------------------------------------------
+Hostname: CA1-CFW-1A-R14
+Model: srx5600
+JUNOS Software Release [12.3X48-D50.6]
+
+node1:
+--------------------------------------------------------------------------
+Hostname: CA1-CFW-1B-R15
+Model: srx5600
+JUNOS Software Release [12.3X48-D50.6]
+
+WA1_CFW> show version
+node0:
+--------------------------------------------------------------------------
+Hostname: WA1-CFW-1A
+Model: srx5600
+JUNOS Software Release [12.1X47-D29]
+
+node1:
+--------------------------------------------------------------------------
+Hostname: WA1-CFW-1B
+Model: srx5600
+JUNOS Software Release [12.1X47-D29]
+
+CA3_CFW> show version
+node0:
+--------------------------------------------------------------------------
+Hostname: CA3-CFW-1A-R18
+Model: srx5600
+JUNOS Software Release [12.3X48-D50.6]
+
+node1:
+--------------------------------------------------------------------------
+Hostname: CA3-CFW-1B-R17
+Model: srx5600
+JUNOS Software Release [12.3X48-D50.6]
+
+CA3_EFW> show version
+node0:
+--------------------------------------------------------------------------
+Hostname: CA3-EFW-1A-R18
+Model: srx1400
+JUNOS Software Release [12.3X48-D50.6]
+
+node1:
+--------------------------------------------------------------------------
+Hostname: CA3-EFW-1B-R17
+Model: srx1400
+JUNOS Software Release [12.3X48-D50.6]
+
+GB1_EFW> show version
+node0:
+--------------------------------------------------------------------------
+Hostname: GB1-EFW-1A-R22
+Model: srx1400
+JUNOS Software Release [12.3X48-D50.6]
+
+node1:
+--------------------------------------------------------------------------
+Hostname: GB1-EFW-1B-R23
+Model: srx1400
+JUNOS Software Release [12.3X48-D50.6]
+
+CA2_EFW> show version
+node0:
+--------------------------------------------------------------------------
+Hostname: CA2-EFW-1A-R5
+Model: srx1400
+JUNOS Software Release [12.3X48-D50.6]
+
+node1:
+--------------------------------------------------------------------------
+Hostname: CA2-EFW-1B-R6
+Model: srx1400
+JUNOS Software Release [12.3X48-D50.6]
+
+DE1_EFW> show version
+node0:
+--------------------------------------------------------------------------
+Hostname: DE1-EFW-1A-R14
+Model: srx1400
+JUNOS Software Release [12.3X48-D50.6]
+
+node1:
+--------------------------------------------------------------------------
+Hostname: DE1-EFW-1B-R15
+Model: srx1400
+JUNOS Software Release [12.3X48-D50.6]
+
+UC1_CFW> show version
+node0:
+--------------------------------------------------------------------------
+Hostname: UC1-CFW-1A
+Model: srx5600
+JUNOS Software Release [12.1X47-D29]
+
+node1:
+--------------------------------------------------------------------------
+Hostname: UC1-CFW-1B
+Model: srx5600
+JUNOS Software Release [12.1X47-D29]
+
+AU1_CFW> show version
+node0:
+--------------------------------------------------------------------------
+Hostname: AU1-CFW-1A-R5
+Model: srx5600
+JUNOS Software Release [12.3X48-D50.6]
+
+node1:
+--------------------------------------------------------------------------
+Hostname: AU1-CFW-1B-R6
+Model: srx5600
+JUNOS Software Release [12.3X48-D50.6]
+
+VA2_EFW> show version
+node0:
+--------------------------------------------------------------------------
+Hostname: VA2-EFW-1A
+Model: srx1400
+JUNOS Software Release [12.3X48-D50.6]
+
+node1:
+--------------------------------------------------------------------------
+Hostname: VA2-EFW-1B
+Model: srx1400
+JUNOS Software Release [12.3X48-D50.6]
+
+DE3_EFW> show version
+node0:
+--------------------------------------------------------------------------
+Hostname: DE3-EFW-1A
+Model: srx1400
+JUNOS Software Release [12.1X44-D35.5]
+
+node1:
+--------------------------------------------------------------------------
+Hostname: DE3-EFW-1B
+Model: srx1400
+JUNOS Software Release [12.1X44-D35.5]
+
+IL1_CFW> show version
+node0:
+--------------------------------------------------------------------------
+Hostname: IL1-CFW-1A
+Model: srx5600
+JUNOS Software Release [12.3X48-D50.6]
+
+node1:
+--------------------------------------------------------------------------
+Hostname: IL1-CFW-1B
+Model: srx5600
+JUNOS Software Release [12.3X48-D50.6]
+
+UC1_EFW> show version
+node0:
+--------------------------------------------------------------------------
+Hostname: UC1-EFW-1A
+Model: srx1400
+JUNOS Software Release [12.1X47-D29]
+
+node1:
+--------------------------------------------------------------------------
+Hostname: UC1-EFW-1B
+Model: srx1400
+JUNOS Software Release [12.1X47-D29]
+
+GB3_CFW> show version
+node0:
+--------------------------------------------------------------------------
+Hostname: GB3-SRX-CORE-A-N0
+Model: srx5600
+JUNOS Software Release [12.1X47-D29]
+
+node1:
+--------------------------------------------------------------------------
+Hostname: GB3-SRX-CORE-A-N1
+Model: srx5600
+JUNOS Software Release [12.1X47-D29]
+
+VA1_EFW> show version
+node0:
+--------------------------------------------------------------------------
+Hostname: VA1-SRX-EDGE-N0
+Model: srx1400
+JUNOS Software Release [12.1X47-D29]
+
+node1:
+--------------------------------------------------------------------------
+Hostname: VA1-SRX-EDGE-N1
+Model: srx1400
+JUNOS Software Release [12.1X47-D29]
+
+CA1_EFW> show version
+node0:
+--------------------------------------------------------------------------
+Hostname: CA1-EFW-1A-R14
+Model: srx1400
+JUNOS Software Release [12.3X48-D50.6]
+
+node1:
+--------------------------------------------------------------------------
+Hostname: CA1-EFW-1B-R15
+Model: srx1400
+JUNOS Software Release [12.3X48-D50.6]
+
+DE3_CFW> show version
+node0:
+--------------------------------------------------------------------------
+Hostname: DE3-CFW-1A-R1
+Model: srx5600
+JUNOS Software Release [12.1X47-D15.4]
+
+node1:
+--------------------------------------------------------------------------
+Hostname: DE3-CFW-1B-R2
+Model: srx5600
+JUNOS Software Release [12.1X47-D15.4]
+
+NY1_EFW> show version
+node0:
+--------------------------------------------------------------------------
+Hostname: NY1-SRX-EDGE-A
+Model: srx1400
+JUNOS Software Release [12.1X47-D29]
+
+node1:
+--------------------------------------------------------------------------
+Hostname: NY1-SRX-EDGE-B
+Model: srx1400
+JUNOS Software Release [12.1X47-D29]
+
+UT1_CFW> show version
+node0:
+--------------------------------------------------------------------------
+Hostname: UT1-SRX-CORE-N0
+Model: srx1400
+JUNOS Software Release [12.1X47-D29]
+
+node1:
+--------------------------------------------------------------------------
+Hostname: UT1-SRX-CORE-N1
+Model: srx1400
+JUNOS Software Release [12.1X47-D29]
+
+IL1_EFW> show version
+node0:
+--------------------------------------------------------------------------
+Hostname: IL1-SRX-EDGE-N0
+Model: srx1400
+JUNOS Software Release [12.3X48-D50.6]
+
+node1:
+--------------------------------------------------------------------------
+Hostname: IL1-SRX-EDGE-N1
+Model: srx1400
+JUNOS Software Release [12.3X48-D50.6]
+
+NY1_CFW> show version
+node0:
+--------------------------------------------------------------------------
+Hostname: NY1-CFW-1A
+Model: srx5600
+JUNOS Software Release [12.1X47-D29]
+
+node1:
+--------------------------------------------------------------------------
+Hostname: NY1-CFW-1B
+Model: srx5600
+JUNOS Software Release [12.1X47-D29]
