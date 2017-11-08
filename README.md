@@ -7,4 +7,4 @@ Usage of new_ssh.py:
 ./new-ssh.py --cfw - for all cfws
 ./new-ssh.py --lab or with no arg - for all labs
 ```
-The default user is cne'
+The default user is cne
